@@ -27,3 +27,18 @@ h1.title {
     @apply font-extrabold text-white
         2xl:absolute 2xl:bottom-[0%] 2xl:left-[30vh] 2xl:z-0 2xl:w-[100vh] 2xl:h-[30vh] 2xl:flex 2xl:items-center 2xl:justify-center 2xl:origin-bottom-left 2xl:rotate-[270deg] 2xl:opacity-30 2xl:pr-24 2xl:pointer-events-none
 }
+
+
+/* Page */
+
+section.page {
+    @apply max-w-screen-lg h-full mx-auto pt-24 px-3 flex items-center justify-center flex-col
+}
+
+section.page-sm {
+    @apply max-w-sm h-full mx-auto
+}
+
+div.content-page {
+    @apply mt-10 p-10 h-4/6 overflow-y-scroll rounded-xl border-4 border-gray-700 italic bg-skulls-pattern bg-black text-lg
+}
