@@ -1,4 +1,4 @@
-#  "React PRO - Creare Real World applications" di Fabio Biondi - "Responsive Font Background Component"
+#  "React PRO - Creare Real World applications" di Fabio Biondi - "Responsive Font Background React Component"
 
 Componente React in tsx per il corso di Fabio Biondi "React PRO - Creare Real World applications" (Capitolo 1: React, Vite, TypeScript & Tailwind - Lezione 5). 
 Scopo del componente è quello di estendere il componente base di Fabio Biondi per fa sì che il testo si adatti allo spazio disponibile in altezza. 
